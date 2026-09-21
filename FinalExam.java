@@ -25,4 +25,5 @@ public class FinalExam extends GradedActivity{
         double points = numQuestions-numMissed;
         return points;
     }
+    /*()__() NEW CHANGE */
 }
